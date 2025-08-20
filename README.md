@@ -1,20 +1,18 @@
 # Hello, I'm Joshua
 <a href="https://linkedin.com/in/joshua-longoria-221885163"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I’m a recent graduate passionate about technology, cybersecurity, and solving complex problems. I enjoy building projects that strengthen my skills in security analysis, network defense, and automation while continuously learning and sharing knowledge with the community.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My background in computer science and hands-on projects has fueled a strong passion for cybersecurity. I am eager to begin my career in the field by joining a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my skills in threat detection, incident response, and continuous learning to protect and strengthen organizational security.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Home Lab                                      |<a href="https://google/com">Dectection Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -46,15 +44,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Foundations%20of%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
+
 ## Projects
+- Home Lab
 - Detection Lab
 - SOC Automation Project
