@@ -47,7 +47,8 @@ My background in computer science and hands-on projects has fueled a strong pass
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Foundations%20of%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS%20Educate-Cloud%20101%20(Cybersecurity)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" />
-
+<img src="https://img.shields.io/badge/LetsDefend-Network%20Engineer-2F855A?style=for-the-badge&logo=shield" alt="LetsDefend – Network Engineer" />
+    
 </div>
 
 
