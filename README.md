@@ -8,7 +8,6 @@ I’m a recent graduate passionate about technology, cybersecurity, and solving 
 My background in computer science and hands-on projects has fueled a strong passion for cybersecurity. I am eager to begin my career in the field by joining a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my skills in threat detection, incident response, and continuous learning to protect and strengthen organizational security.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +20,6 @@ My background in computer science and hands-on projects has fueled a strong pass
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -48,6 +46,8 @@ My background in computer science and hands-on projects has fueled a strong pass
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Foundations%20of%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Educate-Cloud%20101%20(Cybersecurity)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" />
+
 </div>
 
 
