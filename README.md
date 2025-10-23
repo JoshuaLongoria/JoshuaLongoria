@@ -12,7 +12,7 @@ My background in computer science and hands-on projects has fueled a strong pass
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Home Lab                                      |<a href="https://github.com/JoshuaLongoria/HomeLab-Infrastructure">Dectection Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/JoshuaLongoria/SIEM-Implementation-and-Log-Analysis">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
